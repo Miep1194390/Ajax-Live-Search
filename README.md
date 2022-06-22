@@ -1,4 +1,4 @@
-# Ajax-Live-Search
+# Ajax Live Search Component
 
 Small Ajax Live Search Component
 
