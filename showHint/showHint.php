@@ -11,8 +11,8 @@
 
 <body>
     <div class="form">
-        <div class="title">Ajax Live Zoeken</div>
-        <div class="subtitle">Laten we iets opzoeken.</div>
+        <div class="title">Titel</div>
+        <div class="subtitle">Ondertitel</div>
         <div class="input-container ic1">
             <input type="text" class="input" placeholder=" " onkeyup="showHint(this.value)">
             <div class="cut"></div>
